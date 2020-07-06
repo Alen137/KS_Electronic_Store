@@ -1,0 +1,33 @@
+table 1 customer
+
+1.id
+2.name
+3.address(optional)
+4.ph number
+
+table 2 equipment
+
+1.device type
+2.device detail
+3.defect
+4.date received----->(auto generate)
+5.advance payment
+6.paid(or credit remaining)
+7.operation closed/ open
+
+
+table 3 inventory
+
+1. Item name
+2. item detail
+3. cp 
+4. sp 
+
+
+
+actions:
+1.insert customer
+2.edit 
+3.search(name, equipment, operation)
+4.price check
+5.payment
